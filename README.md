@@ -41,9 +41,6 @@ I love sharing my knowledge! Check out my articles on Medium:
 - **Lead Mobile Developer | Broxus (2022 - 2023)**
   - Crypto wallet, secure storage, Flutter-Rust bridge
 
-## 💼 Open to Work
-I'm currently looking for new **remote opportunities** as a **Senior Mobile Developer, Lead Engineer, or CTO**. If you're hiring or have an exciting project, let's connect!
-
 ## 🎯 Let's Connect!
 I'm always open to discussing **open-source projects, collaborations, and new opportunities**. Feel free to reach out!
 
