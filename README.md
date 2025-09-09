@@ -16,6 +16,12 @@ Results-driven mobile developer with extensive experience in **Flutter, native m
 - **Testing:** Unit Testing, Integration Testing, Code Coverage
 
 ## 📌 Open Source Projects
+### 🦆 [mcp-rubber-duck](https://github.com/nesquikm/mcp-rubber-duck)
+An **MCP server bridge** that queries multiple AI language models simultaneously with conversation context, caching, and intelligent failover. Connected LLMs can **use MCP tools directly** without polluting the host LLM context.
+
+### 🤖 [vibotron](https://github.com/nesquikm/vibotron)
+An **AI system prompt optimization pipeline** that systematically tests and improves AI prompts through automated evaluation and iteration.
+
 ### 🚀 [the_logger](https://github.com/nesquikm/the_logger) ([Pub.dev](https://pub.dev/packages/the_logger))
 A **powerful and flexible logging solution** for Flutter with advanced customization.
 
@@ -32,7 +38,9 @@ I love sharing my knowledge! Check out my articles on Medium:
 - 📜 [Code Coverage in Dart/Flutter: Why It Matters and How to Automate It](https://medium.com/@drapolyuk/code-coverage-in-dart-flutter-why-it-matters-and-how-to-automate-it-3a5e60bfd088)
 
 ## 💼 Work Experience
-- **Lead Mobile Developer | We Are Mobile First (2024 - Present)**
+- **Senior Mobile Developer | Sweat Economy (April 2025 - Present)**
+  - Mobile app development, AI integration, cryptocurrency platform
+- **Lead Mobile Developer | We Are Mobile First (2024 - April 2025)**
   - AI-driven mobile apps, backend development, prompt engineering
 - **CTO | DevArtel (2022 - Present)**
   - Mobile & backend development, competition shooting system
