@@ -33,6 +33,7 @@ A **ready-to-use speech-to-text button** for Flutter apps.
 
 ## ✍️ Articles & Blog Posts
 I love sharing my knowledge! Check out my articles on Medium:
+- 📜 [MCP Rubber Duck: When One AI Brain Isn't Enough](https://medium.com/@drapolyuk/mcp-rubber-duck-when-one-ai-brain-isnt-enough-6b2d1080f714)
 - 📜 [From Zero to Game: Full-Stack Solana Development](https://medium.com/@drapolyuk/from-zero-to-game-full-stack-solana-development-simplified-9a6aa5239187)
 - 📜 [TheLogger: A Powerful Logging Solution for Flutter](https://medium.com/@drapolyuk/thelogger-a-powerful-and-flexible-logging-solution-for-flutter-f697d65ca383)
 - 📜 [Code Coverage in Dart/Flutter: Why It Matters and How to Automate It](https://medium.com/@drapolyuk/code-coverage-in-dart-flutter-why-it-matters-and-how-to-automate-it-3a5e60bfd088)
