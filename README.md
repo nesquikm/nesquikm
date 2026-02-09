@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 🚀 **Senior Mobile Developer | Lead Engineer | CTO**
-🔗 [GitHub](https://github.com/nesquikm) • [Pub.dev](https://pub.dev/publishers/thenes.xyz/packages) • [Medium](https://medium.com/@drapolyuk) • [LinkedIn](https://www.linkedin.com/in/mikhail-drapolyuk-38832593/)
+🔗 [GitHub](https://github.com/nesquikm) • [dev.to](https://dev.to/nesquikm) • [Pub.dev](https://pub.dev/publishers/thenes.xyz/packages) • [Medium](https://medium.com/@drapolyuk) • [LinkedIn](https://www.linkedin.com/in/mikhail-drapolyuk-38832593/)
 
 ## 💡 About Me
 Results-driven mobile developer with extensive experience in **Flutter, native mobile development, blockchain, and AI-powered solutions**. Passionate about **clean architecture, automation, and high-performance applications**. Experienced in **Solana, Rust, Firebase, AI-driven applications, and CI/CD automation**, with a strong focus on **security and efficiency**. Active **open-source contributor** and advocate for best coding practices.
@@ -32,7 +32,14 @@ A **secure and fast storage solution** based on SQLite with AES encryption.
 A **ready-to-use speech-to-text button** for Flutter apps.
 
 ## ✍️ Articles & Blog Posts
-I love sharing my knowledge! Check out my articles on Medium:
+
+**MCP Rubber Duck series on [dev.to](https://dev.to/nesquikm):**
+- 📜 [Stop Paying Twice for AI — Turn Your CLI Agents Into Rubber Ducks](https://dev.to/nesquikm/stop-paying-twice-for-ai-turn-your-cli-agents-into-rubber-ducks-af1)
+- 📜 [Stop Launching Chrome to Fetch a JSON File — Give Your Ducks a Fast Lane](https://dev.to/nesquikm/stop-launching-chrome-to-fetch-a-json-file-give-your-ducks-a-fast-lane-704)
+- 📜 [Stop Feeding DOM Snapshots to Claude — Use a Rubber Duck Instead](https://dev.to/nesquikm/stop-feeding-dom-snapshots-to-claude-use-a-rubber-duck-instead-34la)
+- 📜 [🦆 Stop Copy-Pasting Between AI Tabs — Use MCP Rubber Duck Instead](https://dev.to/nesquikm/stop-copy-pasting-between-ai-tabs-use-mcp-rubber-duck-instead-3j8e)
+
+**More on [Medium](https://medium.com/@drapolyuk):**
 - 📜 [MCP Rubber Duck: When One AI Brain Isn't Enough](https://medium.com/@drapolyuk/mcp-rubber-duck-when-one-ai-brain-isnt-enough-6b2d1080f714)
 - 📜 [From Zero to Game: Full-Stack Solana Development](https://medium.com/@drapolyuk/from-zero-to-game-full-stack-solana-development-simplified-9a6aa5239187)
 - 📜 [TheLogger: A Powerful Logging Solution for Flutter](https://medium.com/@drapolyuk/thelogger-a-powerful-and-flexible-logging-solution-for-flutter-f697d65ca383)
