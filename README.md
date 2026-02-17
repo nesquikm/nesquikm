@@ -1,64 +1,65 @@
-# Hi there! 👋
+# Mikhail Drapolyuk (nesquikm)
 
-🚀 **Senior Mobile Developer | Lead Engineer | CTO**
-🔗 [GitHub](https://github.com/nesquikm) • [dev.to](https://dev.to/nesquikm) • [Pub.dev](https://pub.dev/publishers/thenes.xyz/packages) • [Medium](https://medium.com/@drapolyuk) • [LinkedIn](https://www.linkedin.com/in/mikhail-drapolyuk-38832593/)
+**Senior Software Engineer (10+ yrs) — AI Tooling (MCP) · Flutter/Mobile · Rust/Solana**
 
-## 💡 About Me
-Results-driven mobile developer with extensive experience in **Flutter, native mobile development, blockchain, and AI-powered solutions**. Passionate about **clean architecture, automation, and high-performance applications**. Experienced in **Solana, Rust, Firebase, AI-driven applications, and CI/CD automation**, with a strong focus on **security and efficiency**. Active **open-source contributor** and advocate for best coding practices.
+Currently exploring remote Lead/Staff roles in **AI infrastructure**, **developer tooling**, or **mobile platforms at scale**.
+GMT+4 (Tbilisi) — strong EU overlap, 4–6h overlap with US East.
 
-## 🔧 Tech Stack & Skills
-- **Mobile Development:** Flutter, React Native, Android (Java/Kotlin), iOS (Swift)
-- **AI & ML:** LLM integration, Prompt Engineering, AI-powered automation
-- **Blockchain:** Solana, Rust, Everscale, Smart Contracts
-- **Databases:** PostgreSQL, MySQL, SQLite, Cloud Firestore, Riak
-- **Backend:** Serverpod, Firebase Functions, Node.js, Rust
-- **DevOps & CI/CD:** GitHub Actions, Docker, Automation fanatic
-- **Testing:** Unit Testing, Integration Testing, Code Coverage
+[![Email](https://img.shields.io/badge/Email-drapolyuk%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:drapolyuk@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-mikhail--drapolyuk-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mikhail-drapolyuk-38832593/) [![dev.to](https://img.shields.io/badge/dev.to-nesquikm-black?style=flat-square&logo=devdotto)](https://dev.to/nesquikm) [![Medium](https://img.shields.io/badge/Medium-@drapolyuk-black?style=flat-square&logo=medium)](https://medium.com/@drapolyuk) [![Pub.dev](https://img.shields.io/badge/Pub.dev-packages-blue?style=flat-square&logo=dart)](https://pub.dev/publishers/thenes.xyz/packages)
 
-## 📌 Open Source Projects
-### 🦆 [mcp-rubber-duck](https://github.com/nesquikm/mcp-rubber-duck)
-An **MCP server bridge** that queries multiple AI language models simultaneously with conversation context, caching, and intelligent failover. Connected LLMs can **use MCP tools directly** without polluting the host LLM context.
+---
 
-### 🤖 [vibotron](https://github.com/nesquikm/vibotron)
-An **AI system prompt optimization pipeline** that systematically tests and improves AI prompts through automated evaluation and iteration.
+## Impact at a Glance
 
-### 🚀 [the_logger](https://github.com/nesquikm/the_logger) ([Pub.dev](https://pub.dev/packages/the_logger))
-A **powerful and flexible logging solution** for Flutter with advanced customization.
+- **Cut AI translation costs by 99%** — replaced $1,000/mo Crowdin with a $10/mo LLM pipeline (20+ languages, full app in 6 minutes)
+- **Shipped AI features to 20M+ users** — chatbot handling 30K+ daily conversations with proactive suggestions
+- **Creator of [mcp-rubber-duck](https://github.com/nesquikm/mcp-rubber-duck)** — production MCP server for multi-LLM orchestration with tool isolation and guardrails ![GitHub stars](https://img.shields.io/github/stars/nesquikm/mcp-rubber-duck?style=flat-square)
+- **Led teams of 3–15 engineers** across crypto, healthcare, and enterprise B2B — fully remote
+- **Shipped [Ever Wallet](https://github.com/broxus/ever_wallet_flutter_new)** (100K+ downloads) with a [Flutter-Rust bridge](https://github.com/broxus/nekoton_bridge) eliminating 100% of hand-written interop
 
-### 🔐 [the_storage](https://github.com/nesquikm/the_storage) ([Pub.dev](https://pub.dev/packages/the_storage))
-A **secure and fast storage solution** based on SQLite with AES encryption.
+---
 
-### 🗣️ [the_speech_to_text_button](https://github.com/nesquikm/the_speech_to_text_button) ([Demo](https://nesquikm.github.io/the_speech_to_text_button/))
-A **ready-to-use speech-to-text button** for Flutter apps.
+## Open Source
 
-## ✍️ Articles & Blog Posts
+### [mcp-rubber-duck](https://github.com/nesquikm/mcp-rubber-duck) 🦆
+Multi-LLM orchestration bridge — connected LLMs can **use MCP tools directly** without polluting the host context. Policy guardrails, usage tracking, multi-provider routing.
+![Stars](https://img.shields.io/github/stars/nesquikm/mcp-rubber-duck?style=flat-square) ![Forks](https://img.shields.io/github/forks/nesquikm/mcp-rubber-duck?style=flat-square)
 
-**MCP Rubber Duck series on [dev.to](https://dev.to/nesquikm):**
-- 📜 [Stop Paying Twice for AI — Turn Your CLI Agents Into Rubber Ducks](https://dev.to/nesquikm/stop-paying-twice-for-ai-turn-your-cli-agents-into-rubber-ducks-af1)
-- 📜 [Stop Launching Chrome to Fetch a JSON File — Give Your Ducks a Fast Lane](https://dev.to/nesquikm/stop-launching-chrome-to-fetch-a-json-file-give-your-ducks-a-fast-lane-704)
-- 📜 [Stop Feeding DOM Snapshots to Claude — Use a Rubber Duck Instead](https://dev.to/nesquikm/stop-feeding-dom-snapshots-to-claude-use-a-rubber-duck-instead-34la)
-- 📜 [🦆 Stop Copy-Pasting Between AI Tabs — Use MCP Rubber Duck Instead](https://dev.to/nesquikm/stop-copy-pasting-between-ai-tabs-use-mcp-rubber-duck-instead-3j8e)
+### [vibotron](https://github.com/nesquikm/vibotron)
+AI system prompt optimization — automated evaluation and iteration pipeline.
 
-**More on [Medium](https://medium.com/@drapolyuk):**
-- 📜 [MCP Rubber Duck: When One AI Brain Isn't Enough](https://medium.com/@drapolyuk/mcp-rubber-duck-when-one-ai-brain-isnt-enough-6b2d1080f714)
-- 📜 [From Zero to Game: Full-Stack Solana Development](https://medium.com/@drapolyuk/from-zero-to-game-full-stack-solana-development-simplified-9a6aa5239187)
-- 📜 [TheLogger: A Powerful Logging Solution for Flutter](https://medium.com/@drapolyuk/thelogger-a-powerful-and-flexible-logging-solution-for-flutter-f697d65ca383)
-- 📜 [Code Coverage in Dart/Flutter: Why It Matters and How to Automate It](https://medium.com/@drapolyuk/code-coverage-in-dart-flutter-why-it-matters-and-how-to-automate-it-3a5e60bfd088)
+### Flutter packages on [Pub.dev](https://pub.dev/publishers/thenes.xyz/packages)
+[the_logger](https://github.com/nesquikm/the_logger) · [the_storage](https://github.com/nesquikm/the_storage) · [the_speech_to_text_button](https://github.com/nesquikm/the_speech_to_text_button) — logging, AES-256 encrypted storage, speech-to-text. Top pub.dev quality scores, used in production apps.
 
-## 💼 Work Experience
-- **Senior Mobile Developer | Sweat Economy (April 2025 - Present)**
-  - Mobile app development, AI integration, cryptocurrency platform
-- **Lead Mobile Developer | We Are Mobile First (2024 - April 2025)**
-  - AI-driven mobile apps, backend development, prompt engineering
-- **CTO | DevArtel (2022 - Present)**
-  - Mobile & backend development, competition shooting system
-- **Lead Mobile Developer | Callgear (2023 - 2024)**
-  - SIP softphone with chats, checklists, corporate contact lists
-- **Lead Mobile Developer | Broxus (2022 - 2023)**
-  - Crypto wallet, secure storage, Flutter-Rust bridge
+---
 
-## 🎯 Let's Connect!
-I'm always open to discussing **open-source projects, collaborations, and new opportunities**. Feel free to reach out!
+## Tech Stack
 
-📧 drapolyuk@gmail.com
-💼 [LinkedIn](https://www.linkedin.com/in/mikhail-drapolyuk-38832593/)
+| Domain | Technologies |
+| :--- | :--- |
+| **AI & DevTools** | MCP, multi-LLM orchestration, RAG, prompt engineering, guardrails |
+| **Mobile** | Flutter (7+ years), React Native, Kotlin, Swift |
+| **Systems** | Rust, TypeScript/Node.js, Serverpod, PostgreSQL, Docker |
+| **Blockchain** | Solana, smart contracts, Everscale |
+| **Infra** | GitHub Actions, CI/CD automation |
+
+---
+
+## Writing
+
+**MCP Rubber Duck series** on [dev.to](https://dev.to/nesquikm):
+[Stop Paying Twice for AI](https://dev.to/nesquikm/stop-paying-twice-for-ai-turn-your-cli-agents-into-rubber-ducks-af1) · [Give Your Ducks a Fast Lane](https://dev.to/nesquikm/stop-launching-chrome-to-fetch-a-json-file-give-your-ducks-a-fast-lane-704) · [Use a Rubber Duck Instead](https://dev.to/nesquikm/stop-feeding-dom-snapshots-to-claude-use-a-rubber-duck-instead-34la) · [Stop Copy-Pasting Between AI Tabs](https://dev.to/nesquikm/stop-copy-pasting-between-ai-tabs-use-mcp-rubber-duck-instead-3j8e)
+
+**Deep dives** on [Medium](https://medium.com/@drapolyuk):
+[When One AI Brain Isn't Enough](https://medium.com/@drapolyuk/mcp-rubber-duck-when-one-ai-brain-isnt-enough-6b2d1080f714) · [Full-Stack Solana Development](https://medium.com/@drapolyuk/from-zero-to-game-full-stack-solana-development-simplified-9a6aa5239187) · [more...](https://medium.com/@drapolyuk)
+
+---
+
+## What I'm Looking For
+
+Remote Senior/Lead/Staff roles in:
+- **AI developer tooling** — MCP, agent infrastructure, model orchestration
+- **Mobile + AI** — Flutter, cross-platform, LLM-powered features at scale
+- **Product engineering** — high-ownership teams shipping real products
+
+📧 drapolyuk@gmail.com · [LinkedIn](https://www.linkedin.com/in/mikhail-drapolyuk-38832593/)
