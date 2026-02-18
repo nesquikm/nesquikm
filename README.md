@@ -48,7 +48,7 @@ AI system prompt optimization — automated evaluation and iteration pipeline.
 ## Writing
 
 **MCP Rubber Duck series** on [dev.to](https://dev.to/nesquikm):
-[Stop Paying Twice for AI](https://dev.to/nesquikm/stop-paying-twice-for-ai-turn-your-cli-agents-into-rubber-ducks-af1) · [Give Your Ducks a Fast Lane](https://dev.to/nesquikm/stop-launching-chrome-to-fetch-a-json-file-give-your-ducks-a-fast-lane-704) · [Use a Rubber Duck Instead](https://dev.to/nesquikm/stop-feeding-dom-snapshots-to-claude-use-a-rubber-duck-instead-34la) · [Stop Copy-Pasting Between AI Tabs](https://dev.to/nesquikm/stop-copy-pasting-between-ai-tabs-use-mcp-rubber-duck-instead-3j8e)
+[Fowler's GenAI Patterns Are Missing the Orchestration Layer](https://dev.to/nesquikm/fowlers-genai-patterns-are-missing-the-orchestration-layer-heres-what-i-built-36m1) · [Stop Paying Twice for AI](https://dev.to/nesquikm/stop-paying-twice-for-ai-turn-your-cli-agents-into-rubber-ducks-af1) · [Give Your Ducks a Fast Lane](https://dev.to/nesquikm/stop-launching-chrome-to-fetch-a-json-file-give-your-ducks-a-fast-lane-704) · [Use a Rubber Duck Instead](https://dev.to/nesquikm/stop-feeding-dom-snapshots-to-claude-use-a-rubber-duck-instead-34la) · [Stop Copy-Pasting Between AI Tabs](https://dev.to/nesquikm/stop-copy-pasting-between-ai-tabs-use-mcp-rubber-duck-instead-3j8e)
 
 **Deep dives** on [Medium](https://medium.com/@drapolyuk):
 [When One AI Brain Isn't Enough](https://medium.com/@drapolyuk/mcp-rubber-duck-when-one-ai-brain-isnt-enough-6b2d1080f714) · [Full-Stack Solana Development](https://medium.com/@drapolyuk/from-zero-to-game-full-stack-solana-development-simplified-9a6aa5239187) · [more...](https://medium.com/@drapolyuk)
